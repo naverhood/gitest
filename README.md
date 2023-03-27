@@ -6,3 +6,4 @@
         jenkins project setting > build trigger github hook trigger gor GITMcm polling
         install jenkins plugin GITHUB Intergration
         change jenkins configure > add hook url
+        dhodksehotlqkf
