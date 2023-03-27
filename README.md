@@ -5,3 +5,4 @@
 23.3.27 git push trigger jenkins build test 
         jenkins project setting > build trigger github hook trigger gor GITMcm polling
         install jenkins plugin GITHUB Intergration
+        dho dksehl
