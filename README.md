@@ -10,4 +10,4 @@
 23.3.28 aws sg add inbound role tcp 38307
         view github/settings/hooks
         pipeline script use hello world example
-        
+        aws sg add inbound http 
