@@ -14,3 +14,4 @@
         jenkins pipeline scm git
         aws sg add inbound tcp 39527
         jenkins pipe line script add trigger
+        tlqkf
