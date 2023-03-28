@@ -7,4 +7,5 @@
         install jenkins plugin GITHUB Intergration
         change jenkins configure > add hook url
         
-23.3.28 aws sg add inbound role tcp38307
+23.3.28 aws sg add inbound role tcp 38307
+        aws sg remove inbound role tcp 38307
