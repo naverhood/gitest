@@ -11,4 +11,4 @@
         aws sg remove inbound role tcp 38307
         view github/settings/hooks
         pipeline script use hello world example
-        anjsrkdksehlsmsrjrkxdmsep
+        
