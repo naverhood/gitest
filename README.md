@@ -11,4 +11,5 @@
         aws sg remove inbound role tcp 38307
         view github/settings/hooks
         pipeline script use hello world example
-        jenkins pipeline scm git 
+        jenkins pipeline scm git
+        aws sg add inbound tcp 39527
