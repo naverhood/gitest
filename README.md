@@ -13,4 +13,3 @@
         pipeline script use hello world example
         jenkins pipeline scm git
         aws sg add inbound tcp 39527
-        tnehdqlfemsms ehlsmsep dho wkehddms dksehlsmsrjdu 
