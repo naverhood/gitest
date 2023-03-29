@@ -16,3 +16,4 @@
         edit pipeline github project path
         pipeline build now
         edit pipeline script
+        first build
