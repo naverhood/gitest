@@ -22,3 +22,4 @@
         auto create jenkins user hkh961217
         edit pipeline script 'stages gitpush'
         jenkins build error 403
+        download sample.war in jenkins (/var/lib/jenkins/workspace)
