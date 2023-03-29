@@ -16,4 +16,5 @@
         edit pipeline github project path
         pipeline build now
         edit pipeline script
+            git url: 'github https url', branch:'branchname'
         first build
