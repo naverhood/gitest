@@ -19,3 +19,4 @@
             git url: 'github https url', branch:'branchname'
         first build
         delete hkh961217
+        auto create jenkins user hkh961217
