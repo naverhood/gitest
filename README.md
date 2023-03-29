@@ -21,3 +21,4 @@
         delete hkh961217
         auto create jenkins user hkh961217
         edit pipeline script 'stages gitpush'
+        jenkins build error 403
