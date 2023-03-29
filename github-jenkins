@@ -1,1 +1,6 @@
 https://naiveskill.com/jenkins-pipeline-github/
+github account setting > developer settings > Personal access tokens > Generate new token > token copy
+
+jenkins 관리 > Configure System > Github Servers-Credentials Add > Test connection
+New Item > Pipeline > Build Triggers-GitHub hook trigger got GITScm polling 
+
