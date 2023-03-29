@@ -20,3 +20,4 @@
         first build
         delete hkh961217
         auto create jenkins user hkh961217
+        edit pipeline script 'stages gitpush'
