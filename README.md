@@ -11,4 +11,4 @@
         pipeline script use hello world example
         create new pipeline and build
 
-23.3.29 dhodksehlsirh
+23.3.29 add credential(github access token)
