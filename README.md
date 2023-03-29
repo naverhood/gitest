@@ -13,3 +13,4 @@
 
 23.3.29 add credential(github access token) > delete cicdadm credential
         create new pipeline
+        edit pipeline github project path
