@@ -18,3 +18,4 @@
         edit pipeline script
             git url: 'github https url', branch:'branchname'
         first build
+        delete hkh961217
