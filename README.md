@@ -25,3 +25,4 @@
         download sample.war in jenkins (/var/lib/jenkins/workspace)
 
 23.3.30 ahfmrpTek
+        pipeline script scm
