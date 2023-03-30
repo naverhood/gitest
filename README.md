@@ -24,5 +24,5 @@
         jenkins build error 403
         download sample.war in jenkins (/var/lib/jenkins/workspace)
 
-23.3.30 ahfmrpTek
+23.3.30 
         pipeline script scm > rollback
