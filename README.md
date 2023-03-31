@@ -26,3 +26,5 @@
 
 23.3.30 
         pipeline script scm > rollback
+
+23.3.31 mv sample.war /var/lib/jenkins/workspace > /var/lib/jenkins/workspace/test
